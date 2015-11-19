@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3ED72E6B01FCACFFDCC129B4E14049A8E7A1E6A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7360F7D45D6592BBC0CCBB41E9FC383DA90D4985" : 0,
+    "3ED72E6B01FCACFFDCC129B4E14049A8E7A1E6A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F21B15EE-99F4-4F35-B466-E4C410E15961",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7360F7D45D6592BBC0CCBB41E9FC383DA90D4985" : "syphon-opengl-server\/Syphon-Framework\/",
+    "3ED72E6B01FCACFFDCC129B4E14049A8E7A1E6A4" : "syphon-opengl-server\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Simple Server",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Simple Server.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eladg\/syphon-opengl-server.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3ED72E6B01FCACFFDCC129B4E14049A8E7A1E6A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Syphon\/Syphon-Framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7360F7D45D6592BBC0CCBB41E9FC383DA90D4985"
+    }
+  ]
+}
